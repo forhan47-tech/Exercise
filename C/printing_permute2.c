@@ -25,6 +25,6 @@ int main() {
 
     printf("Permutations of \"%s\":\n", input);
     permute(input, 0, len - 1);
-
+    
     return 0;
 }
